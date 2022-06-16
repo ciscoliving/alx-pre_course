@@ -1,1 +1,1 @@
-My first readme
+UPDATED for reading only
