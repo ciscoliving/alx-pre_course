@@ -1,2 +1,4 @@
 This is for reading purpose only
-connect to server manually
+Connect to server manually
+If you fail connact support
+24/7
